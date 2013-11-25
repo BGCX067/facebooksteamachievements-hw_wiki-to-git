@@ -1,4 +1,5 @@
 #summary How to use Steam Achievements for Facebook
+#labels Phase-Support
 
 <wiki:toc max_depth="2" />
 
@@ -63,4 +64,4 @@ Visit the following link to remove all of your information from the app: https:/
 If you have an idea on how to improve Steam Achievements for Facebook, please suggest it on the [http://fbsteamachievements.uservoice.com feedback forum].
 
 ==Additional Questions==
-If you have a question that is not answered here, you can leave a comment on this page or post on the [http://fbsteamachievements.uservoice.com feedback forum]. You can also post on the [http://www.facebook.com/SteamAchievements application profile page], but we don't get notified when you do, so you may not get a response.
+If you have a question that is not answered here, you can leave a comment on the [http://fbsteamachievements.uservoice.com feedback forum]. You can also post on the [http://www.facebook.com/SteamAchievements application profile page], but we don't get notified when you do, so you may not get a response.
